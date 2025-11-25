@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xiaoyan.li.github.io/sitemap.xml
+Sitemap: https://xiaoyanli1.github.io/sitemap.xml
