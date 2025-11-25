@@ -12,10 +12,13 @@
     - title: PhD
       institution: Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
       year: 2017-2022
-    - title: PhD
-      institution: Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
-      year: 2017-2022
-      
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
+
 - title: Experience
   type: time_table
   contents:
