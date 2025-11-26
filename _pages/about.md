@@ -2,16 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "<a href='#'>Beijing University of Technology</a>. E-mail: xiaoyan [dot] li [at] bjut [dot] edu [dot] cn"
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +17,16 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor at Beijing University of Technology ([BJUT faculty page](https://sist.bjut.edu.cn/info/1403/2470.htm)). My current research passion is Embodied AI, with a particular focus on whole-body control for humanoid robots and Vision-Language Navigation (VLN) leveraging Multimodal Large Language Models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My academic journey includes a Postdoc at BJUT (collaborating with Prof. Baocai Yin), a Ph.D. from the Institute of Computing Technology, CAS (advised by Prof. Shiguang Shan), and a Master's degree from Brown University (advised by Prof. Benjamin Kimia).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Over the years, I have been deeply involved in computer vision and robotics research. I have consistently published first-author papers in top-tier venues, including CCF-A and CCF-B conferences, such as CVPR, ICCV, ECCV, IJCAI, and ICRA, and CAS Q1 journals, such as IEEE TPAMI and IEEE TNNLS.
+
+I am always looking for self-motivated students to work on Embodied AI and Robotics.
+
+**Openings:**
+- **Master Students**: 2-3 openings per year.
+- **Undergraduate Interns**: Long-term recruitment.
