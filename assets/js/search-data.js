@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of our cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -32,65 +32,54 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "I am currently teaching the following courses for undergraduate students majoring in Artificial Intelligence at Beijing University of Technology: Natural Language Processing (Course No. 0000635) and Comprehensive Practice of Natural Language Processing (Course No. 0010748).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "Our team consists of bright young minds dedicated to pushing the boundaries of Embodied AI and Robotics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-https-blog-google-technology-ai-google-gemini-update-flash-ai-assistant-io-2024",
-        
-          title: 'https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/ <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "books-the-godfather",
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+              window.location.href = "/books/the_godfather.html";
+            },},{id: "news-click-to-join-our-research-journey",
+          title: 'Click to Join Our Research Journey!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_2.html";
+            },},{id: "news-one-student-has-received-an-admission-offer-from-imperial-college-london-tada",
+          title: 'One student has received an admission offer from Imperial College London. :tada:',
+          description: "",
+          section: "News",},{id: "news-one-student-has-been-recommended-for-admission-to-wuhan-university-tada",
+          title: 'One student has been recommended for admission to Wuhan University. :tada:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_project.html";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/4_project.html";
             },},{
         id: 'social-cv',
         title: 'CV',
