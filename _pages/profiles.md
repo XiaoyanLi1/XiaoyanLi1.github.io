@@ -56,12 +56,12 @@ nav_order: 7
 
 ## Interns
 
-* **Xiang Meng** (AI undergraduate): Working on vision-language navigation.
-* **Haoyang Su** (AI undergraduate): Research on humanoid locomotion.
-* **Yongkang Zhang** (ME undergraduate): Research on vision-language navigation.
-* **Chenxi Song** (SE undergraduate): Research on humanoid whole-body control.
-* **Jiadu Xi** (AI undergraduate): Research on humanoid locomotion.
+- **Xiang Meng** (AI undergraduate): Working on vision-language navigation.
+- **Haoyang Su** (AI undergraduate): Research on humanoid locomotion.
+- **Yongkang Zhang** (ME undergraduate): Research on vision-language navigation.
+- **Chenxi Song** (SE undergraduate): Research on humanoid whole-body control.
+- **Jiadu Xi** (AI undergraduate): Research on humanoid locomotion.
 
 ## Alumni
 
-* **Qian Wang**: China Mobile Communications Group Co., Ltd.
+- **Qian Wang**: China Mobile Communications Group Co., Ltd.

@@ -29,7 +29,6 @@
       institution: Faculty of Information Technology, Beijing University of Technology, Beijing, China
       year: 2022-2024
 
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -41,4 +40,3 @@
       items:
         - 3D Perception for Point Cloud
         - Weakly Supervised Learning for Medical Images
-

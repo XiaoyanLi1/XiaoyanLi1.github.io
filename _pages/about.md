@@ -16,7 +16,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
 ---
 
 I am an Assistant Professor at Beijing University of Technology ([BJUT faculty page](https://sist.bjut.edu.cn/info/1403/2470.htm)). My current research passion is Embodied AI, with a particular focus on whole-body control for humanoid robots and Vision-Language Navigation (VLN) leveraging Multimodal Large Language Models.
@@ -28,5 +27,6 @@ Over the years, I have been deeply involved in computer vision and robotics rese
 I am always looking for self-motivated students to work on Embodied AI and Robotics.
 
 **Openings:**
+
 - **Master Students**: 2-3 openings per year.
 - **Undergraduate Interns**: Long-term recruitment.
