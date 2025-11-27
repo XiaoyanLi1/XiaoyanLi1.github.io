@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of our cool projects.
+description: Selected representative projects are listed below. If you are interested in our research directions, please feel free to contact us. More project details will be updated soon.
 nav: true
 nav_order: 3
 display_categories: [on-going]
