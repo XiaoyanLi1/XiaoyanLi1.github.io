@@ -2,7 +2,7 @@
 layout: page
 title: "Taga-VLM"
 description: "Topology-Aware Global Action Reasoning for Vision-Language Navigation"
-img: assets/img/12.jpg
+img: assets/img/tagavlm.png
 importance: 1
 category: on-going
 related_publications: false
