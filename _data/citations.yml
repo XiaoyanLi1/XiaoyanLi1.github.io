@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-12-17'
+  last_updated: '2025-12-26'
 papers:
   MCzJnAQAAAAJ:2osOgNQ5qMEC:
-    citations: 40
+    citations: 41
     title: 'CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation'
     year: '2022'
   MCzJnAQAAAAJ:9yKSN-GCB0IC:
@@ -14,7 +14,7 @@ papers:
     title: Center focusing network for real-time lidar panoptic segmentation
     year: '2023'
   MCzJnAQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 19
+    citations: 20
     title: 'QDN: A quadruplet distributor network for temporal knowledge graph completion'
     year: '2023'
   MCzJnAQAAAAJ:UeHWp8X0CEIC:
@@ -22,7 +22,7 @@ papers:
     title: Sequential multi-view fusion network for fast lidar point motion estimation
     year: '2022'
   MCzJnAQAAAAJ:W7OEmFMy1HYC:
-    citations: 53
+    citations: 54
     title: "Fastocc: Accelerating 3d occupancy prediction by fusing the 2d bird\u2019s-eye view and perspective view"
     year: '2024'
   MCzJnAQAAAAJ:WF5omc3nYNoC:
@@ -42,7 +42,7 @@ papers:
     title: Measurement of droplet sizes in bubbly oil-in-water flows using a fluid-sampling device
     year: '2017'
   MCzJnAQAAAAJ:eQOLeE2rZwMC:
-    citations: 8
+    citations: 9
     title: Bridging the cross-modality semantic gap in visual question answering
     year: '2024'
   MCzJnAQAAAAJ:qjMakFHDy7sC:
@@ -58,6 +58,6 @@ papers:
     title: 'Differential geometry in edge detection: accurate estimation of position, orientation and curvature'
     year: '2018'
   MCzJnAQAAAAJ:zYLM7Y9cAGgC:
-    citations: 22
+    citations: 23
     title: 'TDN: Triplet distributor network for knowledge graph completion'
     year: '2023'
