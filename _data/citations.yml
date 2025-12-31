@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-26'
+  last_updated: '2025-12-31'
 papers:
   MCzJnAQAAAAJ:2osOgNQ5qMEC:
     citations: 41
@@ -22,11 +22,11 @@ papers:
     title: Sequential multi-view fusion network for fast lidar point motion estimation
     year: '2022'
   MCzJnAQAAAAJ:W7OEmFMy1HYC:
-    citations: 54
+    citations: 55
     title: "Fastocc: Accelerating 3d occupancy prediction by fusing the 2d bird\u2019s-eye view and perspective view"
     year: '2024'
   MCzJnAQAAAAJ:WF5omc3nYNoC:
-    citations: 1
+    citations: 2
     title: Multi-granularity Feature Interaction and Multi-region Selection based Triplet Visual Question Answering
     year: '2024'
   MCzJnAQAAAAJ:Y0pCki6q_DkC:
