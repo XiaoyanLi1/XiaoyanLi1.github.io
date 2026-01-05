@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-31'
+  last_updated: '2026-01-05'
 papers:
   MCzJnAQAAAAJ:2osOgNQ5qMEC:
     citations: 41
@@ -26,7 +26,7 @@ papers:
     title: "Fastocc: Accelerating 3d occupancy prediction by fusing the 2d bird\u2019s-eye view and perspective view"
     year: '2024'
   MCzJnAQAAAAJ:WF5omc3nYNoC:
-    citations: 2
+    citations: 3
     title: Multi-granularity Feature Interaction and Multi-region Selection based Triplet Visual Question Answering
     year: '2024'
   MCzJnAQAAAAJ:Y0pCki6q_DkC:
@@ -42,7 +42,7 @@ papers:
     title: Measurement of droplet sizes in bubbly oil-in-water flows using a fluid-sampling device
     year: '2017'
   MCzJnAQAAAAJ:eQOLeE2rZwMC:
-    citations: 9
+    citations: 8
     title: Bridging the cross-modality semantic gap in visual question answering
     year: '2024'
   MCzJnAQAAAAJ:qjMakFHDy7sC:
