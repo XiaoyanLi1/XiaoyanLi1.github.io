@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-18'
 papers:
   MCzJnAQAAAAJ:2osOgNQ5qMEC:
-    citations: 46
+    citations: 47
     title: 'CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation'
     year: '2022'
   MCzJnAQAAAAJ:9yKSN-GCB0IC:
-    citations: 137
+    citations: 138
     title: Weakly supervised object detection with segmentation collaboration
     year: '2019'
   MCzJnAQAAAAJ:IjCSPb-OGe4C:
-    citations: 14
+    citations: 13
     title: Center focusing network for real-time lidar panoptic segmentation
     year: '2023'
   MCzJnAQAAAAJ:Tyk-4Ss8FVUC:
@@ -19,15 +19,15 @@ papers:
     year: '2023'
   MCzJnAQAAAAJ:UeHWp8X0CEIC:
     citations: 4
-    title: Sequential multi-view fusion network for fast lidar point motion estimation
+    title: Sequential multi-view fusion network for fast LiDAR point motion estimation
     year: '2022'
   MCzJnAQAAAAJ:W7OEmFMy1HYC:
-    citations: 61
+    citations: 66
     title: "Fastocc: Accelerating 3d occupancy prediction by fusing the 2d bird\u2019s-eye view and perspective view"
     year: '2024'
   MCzJnAQAAAAJ:WF5omc3nYNoC:
     citations: 3
-    title: Multi-granularity Feature Interaction and Multi-region Selection based Triplet Visual Question Answering
+    title: Multi-granularity feature interaction and multi-region selection based triplet visual question answering
     year: '2024'
   MCzJnAQAAAAJ:Y0pCki6q_DkC:
     citations: 0
@@ -42,11 +42,11 @@ papers:
     title: Measurement of droplet sizes in bubbly oil-in-water flows using a fluid-sampling device
     year: '2017'
   MCzJnAQAAAAJ:eQOLeE2rZwMC:
-    citations: 8
+    citations: 11
     title: Bridging the cross-modality semantic gap in visual question answering
     year: '2024'
   MCzJnAQAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 4
     title: 'PRNet: Point-Range Fusion Network for Real-Time LiDAR Semantic Segmentation'
     year: '2022'
   MCzJnAQAAAAJ:u-x6o8ySG0sC:
