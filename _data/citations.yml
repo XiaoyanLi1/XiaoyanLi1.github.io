@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-25'
 papers:
   MCzJnAQAAAAJ:2osOgNQ5qMEC:
     citations: 47
@@ -10,7 +10,7 @@ papers:
     title: Weakly supervised object detection with segmentation collaboration
     year: '2019'
   MCzJnAQAAAAJ:IjCSPb-OGe4C:
-    citations: 13
+    citations: 14
     title: Center focusing network for real-time lidar panoptic segmentation
     year: '2023'
   MCzJnAQAAAAJ:Tyk-4Ss8FVUC:
@@ -22,7 +22,7 @@ papers:
     title: Sequential multi-view fusion network for fast LiDAR point motion estimation
     year: '2022'
   MCzJnAQAAAAJ:W7OEmFMy1HYC:
-    citations: 66
+    citations: 68
     title: "Fastocc: Accelerating 3d occupancy prediction by fusing the 2d bird\u2019s-eye view and perspective view"
     year: '2024'
   MCzJnAQAAAAJ:WF5omc3nYNoC:
