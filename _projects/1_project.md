@@ -3,6 +3,7 @@ layout: page
 title: "Taga-VLM"
 description: "Topology-Aware Global Action Reasoning for Vision-Language Navigation"
 img: assets/img/tagavlm.png
+redirect: https://apex-bjut.github.io/Taga-VLM/
 importance: 1
 category: on-going
 related_publications: false
