@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-06'
 papers:
   MCzJnAQAAAAJ:2osOgNQ5qMEC:
     citations: 48
@@ -10,11 +10,19 @@ papers:
     title: Weakly supervised object detection with segmentation collaboration
     year: '2019'
   MCzJnAQAAAAJ:IjCSPb-OGe4C:
-    citations: 14
+    citations: 17
     title: Center focusing network for real-time lidar panoptic segmentation
     year: '2023'
+  MCzJnAQAAAAJ:LkGwnXOMwfcC:
+    citations: 3
+    title: 'ICQ-TransE: LLM-Enhanced Image-Caption-Question Translating Embeddings for Knowledge-Based Visual Question Answering'
+    year: '2025'
+  MCzJnAQAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: 'TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation'
+    year: '2026'
   MCzJnAQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 21
+    citations: 23
     title: 'QDN: A quadruplet distributor network for temporal knowledge graph completion'
     year: '2023'
   MCzJnAQAAAAJ:UeHWp8X0CEIC:
@@ -22,7 +30,7 @@ papers:
     title: Sequential multi-view fusion network for fast LiDAR point motion estimation
     year: '2022'
   MCzJnAQAAAAJ:W7OEmFMy1HYC:
-    citations: 70
+    citations: 72
     title: "Fastocc: Accelerating 3d occupancy prediction by fusing the 2d bird\u2019s-eye view and perspective view"
     year: '2024'
   MCzJnAQAAAAJ:WF5omc3nYNoC:
@@ -34,9 +42,13 @@ papers:
     title: "ProMIS: \u6982\u7387\u56FE\u91C7\u6837\u56FE\u50CF\u589E\u5E7F\u9A71\u52A8\u7684\u5F31\u76D1\u7763\u7269\u4F53\u68C0\u6D4B\u65B9\u6CD5"
     year: '2023'
   MCzJnAQAAAAJ:YsMSGLbcyi4C:
-    citations: 13
+    citations: 14
     title: Modality perception learning-based determinative factor discovery for multimodal fake news detection
     year: '2024'
+  MCzJnAQAAAAJ:_FxGoFyzp5QC:
+    citations: 5
+    title: 'Counterfactual Dual-Bias VQA: A Multimodality Debias Learning for Robust Visual Question Answering'
+    year: '2025'
   MCzJnAQAAAAJ:d1gkVwhDpl0C:
     citations: 13
     title: Measurement of droplet sizes in bubbly oil-in-water flows using a fluid-sampling device
@@ -46,9 +58,13 @@ papers:
     title: Bridging the cross-modality semantic gap in visual question answering
     year: '2024'
   MCzJnAQAAAAJ:qjMakFHDy7sC:
-    citations: 4
+    citations: 5
     title: 'PRNet: Point-Range Fusion Network for Real-Time LiDAR Semantic Segmentation'
     year: '2022'
+  MCzJnAQAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: 'CaFI: Cascade Frustum-Image Fusion Network for 3D Object Detection'
+    year: '2024'
   MCzJnAQAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: Online Multi-threshold Learning with Imbalanced Data Stream
@@ -57,6 +73,10 @@ papers:
     citations: 33
     title: 'Differential geometry in edge detection: accurate estimation of position, orientation and curvature'
     year: '2018'
+  MCzJnAQAAAAJ:ufrVoPGSRksC:
+    citations: 2
+    title: "DSGEM: Dual scene graph enhancement module\u2010based visual question answering"
+    year: '2023'
   MCzJnAQAAAAJ:zYLM7Y9cAGgC:
     citations: 26
     title: 'TDN: Triplet distributor network for knowledge graph completion'
