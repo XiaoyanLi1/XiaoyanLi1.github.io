@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-07-01'
 papers:
   MCzJnAQAAAAJ:2osOgNQ5qMEC:
-    citations: 54
+    citations: 55
     title: 'CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation'
     year: '2022'
   MCzJnAQAAAAJ:9yKSN-GCB0IC:
@@ -18,11 +18,11 @@ papers:
     title: 'ICQ-TransE: LLM-Enhanced Image-Caption-Question Translating Embeddings for Knowledge-Based Visual Question Answering'
     year: '2025'
   MCzJnAQAAAAJ:Se3iqnhoufwC:
-    citations: 0
+    citations: 1
     title: 'TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation'
     year: '2026'
   MCzJnAQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 23
+    citations: 27
     title: 'QDN: A quadruplet distributor network for temporal knowledge graph completion'
     year: '2023'
   MCzJnAQAAAAJ:UeHWp8X0CEIC:
@@ -30,7 +30,7 @@ papers:
     title: Sequential multi-view fusion network for fast LiDAR point motion estimation
     year: '2022'
   MCzJnAQAAAAJ:W7OEmFMy1HYC:
-    citations: 75
+    citations: 79
     title: "Fastocc: Accelerating 3d occupancy prediction by fusing the 2d bird\u2019s-eye view and perspective view"
     year: '2024'
   MCzJnAQAAAAJ:WF5omc3nYNoC:
@@ -42,7 +42,7 @@ papers:
     title: "ProMIS: \u6982\u7387\u56FE\u91C7\u6837\u56FE\u50CF\u589E\u5E7F\u9A71\u52A8\u7684\u5F31\u76D1\u7763\u7269\u4F53\u68C0\u6D4B\u65B9\u6CD5"
     year: '2023'
   MCzJnAQAAAAJ:YsMSGLbcyi4C:
-    citations: 22
+    citations: 23
     title: Modality perception learning-based determinative factor discovery for multimodal fake news detection
     year: '2024'
   MCzJnAQAAAAJ:_FxGoFyzp5QC:
@@ -58,7 +58,7 @@ papers:
     title: Bridging the cross-modality semantic gap in visual question answering
     year: '2024'
   MCzJnAQAAAAJ:qjMakFHDy7sC:
-    citations: 5
+    citations: 6
     title: 'PRNet: Point-Range Fusion Network for Real-Time LiDAR Semantic Segmentation'
     year: '2022'
   MCzJnAQAAAAJ:roLk4NBRz8UC:
@@ -78,6 +78,6 @@ papers:
     title: "DSGEM: Dual scene graph enhancement module\u2010based visual question answering"
     year: '2023'
   MCzJnAQAAAAJ:zYLM7Y9cAGgC:
-    citations: 31
+    citations: 32
     title: 'TDN: Triplet distributor network for knowledge graph completion'
     year: '2023'
