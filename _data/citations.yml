@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-20'
 papers:
   MCzJnAQAAAAJ:2osOgNQ5qMEC:
     citations: 55
     title: 'CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation'
     year: '2022'
   MCzJnAQAAAAJ:9yKSN-GCB0IC:
-    citations: 142
+    citations: 143
     title: Weakly supervised object detection with segmentation collaboration
     year: '2019'
   MCzJnAQAAAAJ:IjCSPb-OGe4C:
-    citations: 19
+    citations: 20
     title: Center focusing network for real-time lidar panoptic segmentation
     year: '2023'
   MCzJnAQAAAAJ:LkGwnXOMwfcC:
@@ -18,11 +18,11 @@ papers:
     title: 'ICQ-TransE: LLM-Enhanced Image-Caption-Question Translating Embeddings for Knowledge-Based Visual Question Answering'
     year: '2025'
   MCzJnAQAAAAJ:Se3iqnhoufwC:
-    citations: 1
+    citations: 2
     title: 'TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation'
     year: '2026'
   MCzJnAQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 27
+    citations: 28
     title: 'QDN: A quadruplet distributor network for temporal knowledge graph completion'
     year: '2023'
   MCzJnAQAAAAJ:UeHWp8X0CEIC:
@@ -30,7 +30,7 @@ papers:
     title: Sequential multi-view fusion network for fast LiDAR point motion estimation
     year: '2022'
   MCzJnAQAAAAJ:W7OEmFMy1HYC:
-    citations: 79
+    citations: 83
     title: "Fastocc: Accelerating 3d occupancy prediction by fusing the 2d bird\u2019s-eye view and perspective view"
     year: '2024'
   MCzJnAQAAAAJ:WF5omc3nYNoC:
@@ -70,7 +70,7 @@ papers:
     title: Online Multi-threshold Learning with Imbalanced Data Stream
     year: '2017'
   MCzJnAQAAAAJ:u5HHmVD_uO8C:
-    citations: 33
+    citations: 34
     title: 'Differential geometry in edge detection: accurate estimation of position, orientation and curvature'
     year: '2018'
   MCzJnAQAAAAJ:ufrVoPGSRksC:
