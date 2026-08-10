@@ -1,17 +1,17 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-10'
 papers:
   MCzJnAQAAAAJ:2osOgNQ5qMEC:
-    citations: 55
+    citations: 56
     title: 'CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation'
     year: '2022'
   MCzJnAQAAAAJ:9yKSN-GCB0IC:
-    citations: 143
+    citations: 128
     title: Weakly supervised object detection with segmentation collaboration
     year: '2019'
   MCzJnAQAAAAJ:IjCSPb-OGe4C:
     citations: 20
-    title: Center focusing network for real-time lidar panoptic segmentation
+    title: Center focusing network for real-time LiDAR panoptic segmentation
     year: '2023'
   MCzJnAQAAAAJ:LkGwnXOMwfcC:
     citations: 3
@@ -30,11 +30,11 @@ papers:
     title: Sequential multi-view fusion network for fast LiDAR point motion estimation
     year: '2022'
   MCzJnAQAAAAJ:W7OEmFMy1HYC:
-    citations: 83
+    citations: 85
     title: "Fastocc: Accelerating 3d occupancy prediction by fusing the 2d bird\u2019s-eye view and perspective view"
     year: '2024'
   MCzJnAQAAAAJ:WF5omc3nYNoC:
-    citations: 4
+    citations: 3
     title: Multi-granularity feature interaction and multi-region selection based triplet visual question answering
     year: '2024'
   MCzJnAQAAAAJ:Y0pCki6q_DkC:
@@ -47,10 +47,10 @@ papers:
     year: '2024'
   MCzJnAQAAAAJ:_FxGoFyzp5QC:
     citations: 9
-    title: 'Counterfactual Dual-Bias VQA: A Multimodality Debias Learning for Robust Visual Question Answering'
+    title: 'Counterfactual dual-bias VQA: A multimodality debias learning for robust visual question answering'
     year: '2025'
   MCzJnAQAAAAJ:d1gkVwhDpl0C:
-    citations: 13
+    citations: 12
     title: Measurement of droplet sizes in bubbly oil-in-water flows using a fluid-sampling device
     year: '2017'
   MCzJnAQAAAAJ:eQOLeE2rZwMC:
@@ -63,14 +63,14 @@ papers:
     year: '2022'
   MCzJnAQAAAAJ:roLk4NBRz8UC:
     citations: 1
-    title: 'CaFI: Cascade Frustum-Image Fusion Network for 3D Object Detection'
+    title: 'CaFI: Cascade frustum-image fusion network for 3D object detection'
     year: '2024'
   MCzJnAQAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: Online Multi-threshold Learning with Imbalanced Data Stream
     year: '2017'
   MCzJnAQAAAAJ:u5HHmVD_uO8C:
-    citations: 34
+    citations: 35
     title: 'Differential geometry in edge detection: accurate estimation of position, orientation and curvature'
     year: '2018'
   MCzJnAQAAAAJ:ufrVoPGSRksC:
@@ -78,6 +78,6 @@ papers:
     title: "DSGEM: Dual scene graph enhancement module\u2010based visual question answering"
     year: '2023'
   MCzJnAQAAAAJ:zYLM7Y9cAGgC:
-    citations: 32
+    citations: 33
     title: 'TDN: Triplet distributor network for knowledge graph completion'
     year: '2023'
