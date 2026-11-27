@@ -34,20 +34,16 @@ nav_order: 7
       Vision-language navigation based on VLM
     </div>
   </div>
-  
+
   <div class="col-sm-6 col-md-4 text-center mt-3">
-    <img src="/assets/img/ruize_shi.jpg" class="img-fluid rounded-circle z-depth-1" style="width: 150px; height: 150px; object-fit: cover;">
     <div class="caption mt-2">
-      <strong>Ruize Shi, M.S.</strong><br>
-      3D medical image segmentation
+      <strong>Jiaqi Liu, M.S.</strong>
     </div>
   </div>
 
   <div class="col-sm-6 col-md-4 text-center mt-3">
-    <img src="/assets/img/bowen_wu.jpg" class="img-fluid rounded-circle z-depth-1" style="width: 150px; height: 150px; object-fit: cover;">
     <div class="caption mt-2">
-      <strong>Bowen Wu, M.S.</strong><br>
-      3D point cloud understanding
+      <strong>Yuxuan Zhang, M.S.</strong>
     </div>
   </div>
 </div>
@@ -67,4 +63,6 @@ nav_order: 7
 
 ## Alumni
 
+- **Bowen Wu** (M.S. 2026): Zero Rhino (Beijing) Technology Co., Ltd.
+- **Ruize Shi** (M.S. 2026): Meituan
 - **Qian Wang** (M.S. 2022-2025): China Mobile Communications Group Co., Ltd.
